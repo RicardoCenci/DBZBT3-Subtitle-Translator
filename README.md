@@ -4,9 +4,10 @@ Feel free to change the code for better, in case of any issues with the code ple
 
 Keep the originals in case of anything happen
 ## How to use:
-* Download the latest build from the release tab
-* Get the .unk file from the game .AFS files usually they are named like TXT-xx-x-xx-x.unk
-* Drag and drop on the .exe executable
+* Download the latest build from the [release](https://github.com/RicardoCenci/DBZBT3-Subtitle-Translator/releases) tab
+* The executable will be located on the DBZBT3 Translation Tool folder
+* Get the .unk file from the game .AFS archive usually they are named like TXT-xx-x-xx-x.unk
+* Drag and drop on the .exe executable ```dbzbt3sub.exe```
 * The program will open a CMD window and a text will appear on the screen
 * Translate the text and hit enter to see the next line
 * Type 'exit' or 'quit' to exit and save the file
